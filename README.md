@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Lab Nine 👋</h1>
+<h1 align="center">Welcome to Lab Ten 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -48,11 +48,11 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab Nine Description
+## :page_facing_up: Lab Ten Description
 
-:arrow_right: Explain the importance of application performance optimization
+:arrow_right: List 10 Google chrome dev tools shortcuts and explain each shortcut functionality.
 
-:arrow_right: How to Improve your Mobile Web App’s Performance?
+:arrow_right: Provide a screenshot for each dev tool shortcut.
 
 :arrow_right: Please make sure you reference your answers.
 
